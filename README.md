@@ -8,7 +8,9 @@ With transactional data, we will collect statistics about products or Customers 
 1. Used first tool called ''Filled Map'' for visualization for creating effective dashobard in POWER BI which analyzed the various brand comapny and their location across the globe
 2. Next tool i used is ''matrix'' in power BI which helps in segregating the data of the transacation vaLue of company according to its year wise
 
-# DataSet Content: Data set contains transactions in .csv format having following features:
+# DataSet Content: 
+
+Data set contains transactions in .csv format having following features:
 
 Invoice Number: Unique ID of Transaction
 Product Code: Unique ID of Product
