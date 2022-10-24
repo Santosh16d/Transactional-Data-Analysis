@@ -3,4 +3,4 @@ This data set project have provided transactional data of numerous MNC in csv fo
 
 # POWER BI 
 1. Used first tool called ''Filled Map'' for visualization for creating effective dashobard in POWER BI which analyzed the various brand comapny and their location across the globe
-2. Next tool i used is ''matrix'' in power BI which helps in segreating the data of the trancation vaLue of company according to its year wise
+2. Next tool i used is ''matrix'' in power BI which helps in segregating the data of the transacation vaLue of company according to its year wise
